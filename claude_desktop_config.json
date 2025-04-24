@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "Keralam AI Server": {
+      "command": "docker",
+      "args": [
+        "run",
+	"-i",
+	"--rm",
+        "popsicle3058/keralam-dam-mcp"
+       ]
+    }
+  }
+}
